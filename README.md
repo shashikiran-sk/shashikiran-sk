@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashikiran-sk
 - 👀 I’m interested in Web world specially on frontend.
-- 🌱 I’m currently learning Angular Indepth like web components, Redux paatern.
+- 🌱 I’m currently learning Angular Indepth like web components, Redux pattern.
 - 💞️ I’m looking to collaborate on open source javascript project
 - 📫 How to reach me ...
 
